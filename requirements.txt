@@ -1,0 +1,7 @@
+numpy
+matplotlib
+ipympl
+pynufft
+sigpy
+PyWavelets
+ipykernel
